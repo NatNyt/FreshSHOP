@@ -1,0 +1,26 @@
+{
+  "config": {
+    "captcha": {
+      "anticaptcha": {
+        "key": ""
+      }
+    },
+    "discord": {
+      "webhook": "",
+      "bot": {
+        "use": false,
+        "token": "",
+        "commands": {
+          "clientId": "",
+          "name": "twtich",
+          "description": "Auto Register Twitch",
+          "channelID": ""
+        }
+      }
+    },
+    "whitelist": {
+      "key": ""
+    }
+  },
+  "config_version": 1.2
+}
