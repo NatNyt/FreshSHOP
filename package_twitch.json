@@ -1,0 +1,27 @@
+{
+  "name": "twitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.22",
+    "@discordjs/rest": "^0.4.1",
+    "axios": "^0.27.2",
+    "discord-api-types": "^0.33.0",
+    "discord.js": "^13.7.0",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.1",
+    "https-proxy-agent": "^5.0.1",
+    "inquirer": "^8.2.4",
+    "node-fetch": "^2.6.7",
+    "node-machine-id": "^1.1.12",
+    "path": "^0.12.7"
+  }
+}
